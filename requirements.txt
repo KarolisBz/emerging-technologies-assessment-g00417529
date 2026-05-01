@@ -1,2 +1,16 @@
-# Numerical arrays.
-numpy
+# Quantum computing.
+qiskit[visualization]
+# Quantum simulators.
+qiskit-aer
+# Interactive Python shell.
+ipython
+# Jupyter notebook/lab support.
+ipykernel
+# Jupyter lab.
+jupyterlab
+# Jupyter notebook.
+notebook
+# Data Frames.
+pandas
+# Plotting.
+matplotlib
