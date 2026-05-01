@@ -30,13 +30,13 @@ This project is linted and formatted using [Ruff](https://docs.astral.sh/ruff/),
 ## How To Run
 **It is recommended to run this project in a virtual environment to avoid dependency conflicts.**
 
-1. Clone this repository
+1. **Clone this repository**
 ````text
 git clone https://github.com/KarolisBz/emerging-technologies-assessment-g00417529.git
 cd emerging-technologies-assessment-g00417529
 ````
 
-2. Create and Activate a Virtual Environment
+2. **Create and Activate a Virtual Environment** <br>
 Run the following commands based on your operating system:
 
 Windows PowerShell:
@@ -51,17 +51,17 @@ python3 -m venv venv
 source venv/bin/activate
 ````
 
-3. Install dependencies:
+3. **Install dependencies**
 ````
 python -m pip install -r requirements.txt
 ````
 
-4. Launch Jupyter notebook
+4. **Launch Jupyter notebook**
 ````
 python -m jupyter notebook
 ````
 
-5. Execute the Project:
+5. **Execute the Project**
 - Open problems.ipynb from the interface and run all cells sequentially from top to bottom.
 
 ## References
