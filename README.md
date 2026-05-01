@@ -4,6 +4,9 @@
 **Module:** Emerging Technologies <br>
 **Language:** Python 3.12.5 <br>
 
+## Project Overview
+This repository contains an project submission for the Emerging Technologies module at Atlantic Technological University. The work focuses on understanding and implementing the Deutsch-Jozsa algorithm, one of the earliest demonstrations of quantum computational advantage over classical computation. All work is completed in a single Jupyter notebook [problems.ipynb](problems.ipynb) featuring five structured challenges that bridge the gap between traditional computing and quantum computing. The project scales up from generating standard classical Boolean logic to designing and simulating a complete quantum circuit with Qiskit and the Qiskit Aer simulator.
+
 ## Core Problems
 ### Problem 1: Generating Random Boolean Functions
 The first stage of this project involved creating a reliable "Black Box" or Oracle for testing. We developed a classical Python generator designed to produce functions that are strictly constant (returning the same value for every input) or balanced (returning 0 for exactly half the inputs and 1 for the other half). By analysing 16 unique input combinations for a 4-bit domain, we verified the generator through statistical trials, ensuring it consistently produced valid test cases for the quantum algorithms.
